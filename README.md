@@ -1,6 +1,3 @@
-# Bruno Eiji
-## Dev Front.
-
 [![Linkedin Badge](https://img.shields.io/badge/-brunoeiji-1ca0f1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-eiji-1b47b1206/)](https://www.linkedin.com/in/bruno-eiji-1b47b1206/)
 [![Gmail Badge](https://img.shields.io/badge/-brunoeiji1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoeiji1@gmail.com)](mailto:brunoeiji1@gmail.com)
 
