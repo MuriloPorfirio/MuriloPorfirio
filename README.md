@@ -9,7 +9,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPOSITORY)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuriloPorfirio&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=2D3742&ring=6bbcca&fire=6bbcca&currStreakNum=ffffff&sideNums=6bbcca&currStreakLabel=6bbcca&sideLabels=ffffff&dates=ffffff)![GitHub Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuriloPorfirio&theme=dark)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuriloPorfirio&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=2D3742&ring=6bbcca&fire=6bbcca&currStreakNum=ffffff&sideNums=6bbcca&currStreakLabel=6bbcca&sideLabels=ffffff&dates=ffffff)(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuriloPorfirio&theme=dark)
 
 
 ### Habilidades:
