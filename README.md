@@ -10,6 +10,8 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPOSITORY)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuriloPorfirio&show_icons=true&theme=dark)
+![GitHub Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuriloPorfirio&theme=dark)
+
 
 ### Habilidades:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
