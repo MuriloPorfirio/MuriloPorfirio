@@ -1,3 +1,5 @@
+![Animated Header](https://camo.githubusercontent.com/5c479962b7a5849266ec622aec63ae94a1f21fd088f7d445552d1252848b562f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d333239304637266865696768743d3137302673656374696f6e3d686561646572)
+
 # Murilo Porfírio
 
 [![ORCID](https://img.shields.io/badge/ORCID-A8A8A8?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7533-0763)
@@ -5,16 +7,14 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Murilo-Porfirio-De-Aguiar)
 [![Lattes](https://img.shields.io/badge/Lattes-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,SUAdGVzdCBzdGVhZHkgYmFkZ2U=)](http://lattes.cnpq.br/0683651792361151)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPOSITORY)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuriloPorfirio&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPorfirio&layout=compact&theme=dark)
-
 
 ### Habilidades:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPOSITORY)
+
 
 
 
