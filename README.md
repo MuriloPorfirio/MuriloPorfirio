@@ -12,7 +12,7 @@
 | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuriloPorfirio&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=2D3742&ring=6bbcca&fire=6bbcca&currStreakNum=ffffff&sideNums=6bbcca&currStreakLabel=6bbcca&sideLabels=ffffff&dates=ffffff) | ![GitHub Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuriloPorfirio&theme=dark) |
 | --- | --- |
 
-### Habilidades:
+### Tools & Technologies:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
