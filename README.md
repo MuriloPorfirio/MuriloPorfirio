@@ -1,5 +1,3 @@
-![Animated Header](https://camo.githubusercontent.com/281f6e59d137ed8383cd963bf55e22c568254c2fb341ef80ae96399ae9a0e896/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d334635464630266865696768743d3132302673656374696f6e3d686561646572)
-
 # Murilo Porfírio
 
 [![ORCID](https://img.shields.io/badge/ORCID-A8A8A8?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7533-0763)
@@ -17,7 +15,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
-![Animated Header](https://camo.githubusercontent.com/68cd177c4f682d0a9073ea1531e4a231261979ca6eb432a0a3a482a18af5fa4c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d334635464630266865696768743d3132302673656374696f6e3d666f6f746572)
 
 <!---
 MuriloPorfirio/MuriloPorfirio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
