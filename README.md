@@ -14,17 +14,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPorfirio&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPorfirio&hide=jupyter%20notebook&layout=compact)
-
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPorfirio&hide=jupyter%20notebook&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPorfirio&layout=compact&token=SEU_TOKEN)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPorfirio&layout=compact&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=79ff97&border_color=ffffff)
 
 
