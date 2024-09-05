@@ -4,6 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-porfírio-23820915a/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Murilo-Porfirio-De-Aguiar)
 [![Lattes](https://img.shields.io/badge/Lattes-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,SUAdGVzdCBzdGVhZHkgYmFkZ2U=)](http://lattes.cnpq.br/0683651792361151)
+[![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/MuriloPorfirio)
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPOSITORY)
 
