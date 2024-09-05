@@ -25,6 +25,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPorfirio&layout=compact&token=SEU_TOKEN)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPorfirio&layout=compact&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=79ff97&border_color=ffffff)
+
+
 
 
 <!---
