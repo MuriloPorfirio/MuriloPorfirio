@@ -19,6 +19,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPorfirio&hide=jupyter%20notebook&layout=compact)
 
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPorfirio&hide=jupyter%20notebook&layout=compact)
+
+
 
 <!---
 MuriloPorfirio/MuriloPorfirio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
