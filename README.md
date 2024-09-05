@@ -23,6 +23,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPorfirio&hide=jupyter%20notebook&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPorfirio&layout=compact&token=SEU_TOKEN)
+
 
 
 <!---
