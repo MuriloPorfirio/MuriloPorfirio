@@ -16,9 +16,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=flat-square&logo=command-prompt&logoColor=white)
-![CMD](https://img.shields.io/badge/C%3A%5C%3E__-CMD-000000?style=flat-square&logo=none&labelColor=1C1C1C&logoColor=white&color=4D4D4D)
-
+<div style="display: inline-block; background-color: #000; color: #fff; font-family: 'Courier New', monospace; padding: 5px 10px; border-radius: 4px;">
+  <span style="font-weight: bold;">C:\>_</span>
+  <span style="margin-left: 5px;">CMD</span>
+</div>
 
 
 
