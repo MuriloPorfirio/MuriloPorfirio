@@ -16,7 +16,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=windows&logoColor=white)
+![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=flat-square&logo=command-prompt&logoColor=white)
+
 
 
 
