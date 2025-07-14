@@ -8,10 +8,6 @@
 [![Academia](https://img.shields.io/badge/Academia.edu-414141?style=for-the-badge&logo=academia&logoColor=white)](https://independent.academia.edu/MuriloPorfírio)
 [![AMiner](https://img.shields.io/badge/AMiner-FF5C5C?style=for-the-badge&logo=semanticweb&logoColor=white)](https://www.aminer.cn/profile/681cdcd403748f38f161567c)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuriloPorfirio.MuriloPorfirio)
-
-| ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuriloPorfirio&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=2D3742&ring=6bbcca&fire=6bbcca&currStreakNum=ffffff&sideNums=6bbcca&currStreakLabel=6bbcca&sideLabels=ffffff&dates=ffffff) | ![GitHub Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuriloPorfirio&theme=dark) |
-| --- | --- |
 
 ### Tools & Technologies:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
