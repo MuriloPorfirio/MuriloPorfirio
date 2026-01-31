@@ -14,5 +14,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![CMD](https://img.shields.io/badge/C%3A%5C%3E__-CMD-000000?style=flat-square&logo=none&labelColor=000000&color=000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPorfirio&layout=compact&bg_color=000000&title_color=ff69b4&text_color=ffffff&icon_color=79ff97&border_color=ffffff)
