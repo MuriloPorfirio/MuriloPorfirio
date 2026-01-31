@@ -11,7 +11,7 @@
 
 ### Tools & Technologies:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![CMD](https://img.shields.io/badge/C%3A%5C%3E__-CMD-000000?style=flat-square&logo=none&labelColor=000000&color=000000)
 
